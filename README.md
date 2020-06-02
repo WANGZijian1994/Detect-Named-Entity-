@@ -12,5 +12,5 @@ After using spacy retrain API, I have updated the German Language Model(https://
 - Recall: 59.10%
 * F-Call: 64.42%
 
-
+At the same time, I have tried StanfordCoreNLP for detecting Named Entities with the same data, and it works. I will add results later. 
 
