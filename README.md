@@ -2,18 +2,15 @@
 
 de_train.json and de_dev.json are the annoted data. And I will try every NLP tools to detect Named Entity in German.
 
-First I have used [Spacy German Model](https://spacy.io/models/de). 
+First I have used [Spacy German Model](https://spacy.io/models/de). But the result of the precision of these models is not satisfactory for my data.
 
-There are two language models trained in Spacy. And I will try each of them.
+After using spacy retrain API, I have updated the German Language Model and test this model with dev data. 
 
 `The result`
 
-`model 1`
-* Precision：45.785664%
-- Recall: 63.401229%
-* F-Call: 53.172451ù
+* Precision：70.90%
+- Recall: 59.10%
+* F-Call: 64.42%
 
-`model 2`
-* Precision: 41.127470%	
-- Recall: 67.290016%	
-* F-Call: 51.052062%
+
+
