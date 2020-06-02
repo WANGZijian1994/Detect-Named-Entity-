@@ -4,7 +4,7 @@ de_train.json and de_dev.json are the annoted data. And I will try every NLP too
 
 First I have used [Spacy German Model](https://spacy.io/models/de). But the result of the precision of these models is not satisfactory for my data.
 
-After using spacy retrain API, I have updated the German Language Model and test this model with dev data. 
+After using spacy retrain API, I have updated the German Language Model(https://github.com/WANGZijian1994/Detect-Named-Entity-/tree/master/spacyNER/RetrainModels) and test this model with dev data. 
 
 `The result`
 
