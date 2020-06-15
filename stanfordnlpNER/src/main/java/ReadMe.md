@@ -13,7 +13,7 @@ text`:
 `results`
 
 | NER | Type | start | end | context |
-| --- | ---  | ---—- | --- | ------- |
+| --- | ---  | --- | --- | --- |
 | Petersburg | LOCATION| 11 | 21 | Petersburg den 18. Dec |
 | Se.russisch | MISC | 35 | 46 | Dec. Se.russisch- kaiserl. Majestät |
 | Petersburg | LOCATION | 115 | 125 | y dessen Ankunft in Petersburg den St.Andreas-Orde |
