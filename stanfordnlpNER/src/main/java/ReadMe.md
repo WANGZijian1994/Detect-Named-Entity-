@@ -1,7 +1,7 @@
 In this class NerGerman, I had made an exemple of detecting NER in German 
 for a set of data named dev_data. But there is a problem of 
 
-￿ >> ￿￿INFO edu.stanford.nlp.parser.lexparser.BiLexPCFGParser - FactoredParser: exceeded MAX_ITEMS work limit [200000 items]; aborting
+>>INFO edu.stanford.nlp.parser.lexparser.BiLexPCFGParser - FactoredParser: exceeded MAX_ITEMS work limit [200000 items]; aborting
 
 and it could not treat big size data. I will try to solve this problem this week.
 
