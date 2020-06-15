@@ -7,10 +7,14 @@ First I have used [Spacy German Model](https://spacy.io/models/de). But the resu
 After using spacy retrain API, I have updated the German Language Model(https://github.com/WANGZijian1994/Detect-Named-Entity-/tree/master/spacyNER/RetrainModels) and test this model with dev data. 
 
 `The result`
+ 	precison 	recall 	f1
+Model only with my train_data 	64.814815 	53.030303 	58.333333
+Model with data TigerCorpus and my train data 	70.909091 	59.090909 	64.462810
 
-* Precision：70.90%
-- Recall: 59.10%
-* F-Call: 64.42%
+| Items | Training Data Model | Training Data + Spacy Model (de_core_web_sm) |
+| --- | --- | --- |
+| Precision | 64.8% | 70.90%
+| Recall | 53% | 59.10%
+| F-Call | 58.3% | 64.42%
 
-At the same time, I have tried StanfordCoreNLP for detecting Named Entities with the same data, and it works(https://github.com/WANGZijian1994/Detect-Named-Entity-/blob/master/stanfordnlpNER/src/test/java/TestNERGerman.java). I will add results later. 
 
