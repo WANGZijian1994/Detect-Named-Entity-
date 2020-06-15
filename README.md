@@ -1,4 +1,4 @@
-*** This project works with `NER (Named Entity Recognition)` in `German`. 
+### This project works with `NER (Named Entity Recognition)` in `German`. 
 
 de_train.json and de_dev.json are the annoted data. And I will try every NLP tools to detect Named Entity in German.
 
