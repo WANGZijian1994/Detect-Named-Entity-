@@ -5,7 +5,7 @@ for a set of data named dev_data.
 
 >>Problem Solved: delete "parse" in the ressources.properities [https://github.com/WANGZijian1994/Detect-Named-Entity-/blob/master/stanfordnlpNER/src/main/resources/StanfordCoreNLP-german.properties].
 
->>annotators = tokenize, ssplit, pos, ner, ###parse ### delete parse
+>>annotators = tokenize, ssplit, pos, ner, ###parse###  ###delete parse
 
 
 Here I give the result of the `first text` in the data detected by stanfordnlp
