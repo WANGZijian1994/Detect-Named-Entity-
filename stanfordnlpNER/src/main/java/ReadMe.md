@@ -12,16 +12,16 @@ text`:
 
 `results`
 
-NER | Type | start | end | context
-- | :-: | :-: | :-: | :-: | -:
-Petersburg | LOCATION| 11 | 21 | Petersburg den 18. Dec
-Se.russisch | MISC | 35 | 46 | Dec. Se.russisch- kaiserl. Majestät
-Petersburg | LOCATION | 115 | 125 | y dessen Ankunft in Petersburg den St.Andreas-Orde
-Maltheser Ritterorden | ORGANIZATION | 154 | 175 | ndreas-Orden u. den Maltheser Ritterorden in Polen zu ertheil
-Polen | LOCATION | 179 | 184 | eser Ritterorden in Polen zu ertheilen, und i
-Petersburg | LOCATION | 256 | 266 | eublirten Palais in Petersburg zu beschenken geruh
-Wladimir | PERSON | 440 | 448 | orden, ist nun nach Wladimir, Luzk und Kowelin Q
-Luzk | LOCATION | 450 | 454 | nun nach Wladimir, Luzk und Kowelin Quartie
-Duc deBerry | LOCATION | 647 | 658 | Regiments, und den Duc deBerry zum Chef des adelic
-St. Andreas-Ordens | ORGANIZATION | 911 | 929 | lichdas Zeichen des St. Andreas-Ordens tragen sollte.Der K
+| NER | Type | start | end | context |
+| --- | ---  | ---—- | --- | ------- |
+| Petersburg | LOCATION| 11 | 21 | Petersburg den 18. Dec |
+| Se.russisch | MISC | 35 | 46 | Dec. Se.russisch- kaiserl. Majestät |
+| Petersburg | LOCATION | 115 | 125 | y dessen Ankunft in Petersburg den St.Andreas-Orde |
+| Maltheser Ritterorden | ORGANIZATION | 154 | 175 | ndreas-Orden u. den Maltheser Ritterorden in Polen zu ertheil |
+| Polen | LOCATION | 179 | 184 | eser Ritterorden in Polen zu ertheilen, und |
+| Petersburg | LOCATION | 256 | 266 | eublirten Palais in Petersburg zu beschenken geruh |
+| Wladimir | PERSON | 440 | 448 | orden, ist nun nach Wladimir, Luzk und Kowelin Q |
+| Luzk | LOCATION | 450 | 454 | nun nach Wladimir, Luzk und Kowelin Quartie |
+| Duc deBerry | LOCATION | 647 | 658 | Regiments, und den Duc deBerry zum Chef des adelic 
+| St. Andreas-Ordens | ORGANIZATION | 911 | 929 | lichdas Zeichen des St. Andreas-Ordens tragen sollte.Der K |
 
