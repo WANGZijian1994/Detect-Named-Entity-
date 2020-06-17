@@ -1,0 +1,637 @@
+
+<html>
+  <meta charset="UTF-8"></meta>
+  <head><title>Vrai Négatif</title></head>
+  <body>
+    <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>NER</th>
+      <th>Type</th>
+      <th>Context</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>Prinzen</td>
+      <td>PER</td>
+      <td>kaiserl. Majestät haben dem Prinzen vonCondé ...</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Prinzen</td>
+      <td>PER</td>
+      <td>Kavallerie-Regimentern bestehende Corps des P...</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Prinzen</td>
+      <td>PER</td>
+      <td>wird unterbestandiger Inspection des Prinzen ...</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Commodore</td>
+      <td>PER</td>
+      <td>HäuserDanksagungen für Adm. Nelson, Commodore...</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>NelsonsBelohnung</td>
+      <td>PER</td>
+      <td>Bothschaft des Königs, über NelsonsBelohnung,...</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>ben</td>
+      <td>PER</td>
+      <td>vomNil und Burnharm Torpe vererben soll) eine...</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Bompartschen</td>
+      <td>PER</td>
+      <td>Tone, den man auf derBompartschen Eskader gef...</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Abukir</td>
+      <td>LOC</td>
+      <td>—Die von Nelson bey Abukir eroberten Schiffe ...</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>Gibraltar</td>
+      <td>LOC</td>
+      <td>dassouveraine Volk, ist zu Gibraltar gebliebe...</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>Bengalen</td>
+      <td>LOC</td>
+      <td>zu dienen. — Aus Bengalen ist über Landein Co...</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>neuen</td>
+      <td>PER</td>
+      <td>welcher über die Ankunft desneuen Gouverneurs...</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>Tippo</td>
+      <td>PER</td>
+      <td>Lord Mornington, Gewißheit mitbringt. Tippo S...</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>das</td>
+      <td>MISC</td>
+      <td>600. Gulden Einkommenshat, für das J. 1798, u...</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>bis</td>
+      <td>MISC</td>
+      <td>für die folgenden Jahre bis 1824.besteht. Für...</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>Goubot</td>
+      <td>PER</td>
+      <td>Divisionen derGenerale Vedel und Goubot gleic...</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>Andujar</td>
+      <td>LOC</td>
+      <td>Franzosen sind krank in Andujar und Baylen zu...</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>Baylen</td>
+      <td>LOC</td>
+      <td>krank in Andujar und Baylen zurückgeblieben, ...</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>Düponts</td>
+      <td>PER</td>
+      <td>Baylen zurückgeblieben, so daß Düponts ganzer...</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>heint</td>
+      <td>PER</td>
+      <td>Regierung Preußens tretenkönne, so scheint er...</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>Belgien</td>
+      <td>LOC</td>
+      <td>und zu handhaben. A. Z.)Belgien. Der Bürgerme...</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>Bürgermeister</td>
+      <td>PER</td>
+      <td>handhaben. A. Z.)Belgien. Der Bürgermeister v...</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>Lüttich</td>
+      <td>LOC</td>
+      <td>von den Liberalen in Lüttich zum Deputirten g...</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>Herrde</td>
+      <td>PER</td>
+      <td>gewählt worden; sein Gegner, Herrde Longrée, ...</td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td>Hrn</td>
+      <td>PER</td>
+      <td>einnaher Verwandter des Ministers, Hrn. de Th...</td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>Hr</td>
+      <td>PER</td>
+      <td>ward hartnäckig bestritten, denn Hr. Neef hat...</td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>Hr</td>
+      <td>PER</td>
+      <td>Neef hatte 445 und Hr. deLongrée 413 Stimmen....</td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>Türkei</td>
+      <td>LOC</td>
+      <td>und Hr. deLongrée 413 Stimmen.Türkei. Die Ein...</td>
+    </tr>
+    <tr>
+      <th>28</th>
+      <td>Gott</td>
+      <td>PER</td>
+      <td>weil mannur erkranke, wenn Gott es wolle. Die...</td>
+    </tr>
+    <tr>
+      <th>29</th>
+      <td>Dresden</td>
+      <td>LOC</td>
+      <td>Zulassenund Gnade wirksam sein können."Dresde...</td>
+    </tr>
+    <tr>
+      <th>30</th>
+      <td>Europäischen</td>
+      <td>MISC</td>
+      <td>der in Bern erschienenen Europäischen Zeitung...</td>
+    </tr>
+    <tr>
+      <th>31</th>
+      <td>1819</td>
+      <td>MISC</td>
+      <td>über die Freimaurerei ist 1819 von ihm in Aar...</td>
+    </tr>
+    <tr>
+      <th>32</th>
+      <td>Aarauerschienen</td>
+      <td>LOC</td>
+      <td>1819 von ihm in Aarauerschienen</td>
+    </tr>
+    <tr>
+      <th>33</th>
+      <td>Dr</td>
+      <td>PER</td>
+      <td>507,289 Fr. ein (Berichterstatter Dr. Reali)....</td>
+    </tr>
+    <tr>
+      <th>34</th>
+      <td>Universität</td>
+      <td>ORG</td>
+      <td>physikalischen Institut neben der Universität...</td>
+    </tr>
+    <tr>
+      <th>35</th>
+      <td>Universität</td>
+      <td>ORG</td>
+      <td>sagt man, daß die Universität Zürich an denVo...</td>
+    </tr>
+    <tr>
+      <th>36</th>
+      <td>KantonsZürich</td>
+      <td>LOC</td>
+      <td>wenn der Hochschule des KantonsZürich solche ...</td>
+    </tr>
+    <tr>
+      <th>37</th>
+      <td>Bundesrath</td>
+      <td>ORG</td>
+      <td>nichts einzuwenden, wenn der Bundesrath dem P...</td>
+    </tr>
+    <tr>
+      <th>38</th>
+      <td>Bundesrath</td>
+      <td>PER</td>
+      <td>Subventionsgesuch der Hochschulen sehr ermunt...</td>
+    </tr>
+    <tr>
+      <th>39</th>
+      <td>Zürich</td>
+      <td>LOC</td>
+      <td>das physikalische Institut in Zürich. Ein sol...</td>
+    </tr>
+    <tr>
+      <th>40</th>
+      <td>eidgenössischen</td>
+      <td>ORG</td>
+      <td>müssen wir auch am eidgenössischen Polytechni...</td>
+    </tr>
+    <tr>
+      <th>41</th>
+      <td>Zürich</td>
+      <td>LOC</td>
+      <td>Stätte bereiten. Einen Neid aufZürich brauche...</td>
+    </tr>
+    <tr>
+      <th>42</th>
+      <td>Zürich</td>
+      <td>LOC</td>
+      <td>Professoren nach wie vor. Zürich genießt gewi...</td>
+    </tr>
+    <tr>
+      <th>43</th>
+      <td>Zürich</td>
+      <td>LOC</td>
+      <td>nun am physikalischen Institutin Zürich studi...</td>
+    </tr>
+    <tr>
+      <th>44</th>
+      <td>Dr</td>
+      <td>PER</td>
+      <td>sah, wie dieEinrichtungen getroffen waren.Dr....</td>
+    </tr>
+    <tr>
+      <th>45</th>
+      <td>Bundesrath</td>
+      <td>ORG</td>
+      <td>meteorologische Anstalt einstimmig bewilligt....</td>
+    </tr>
+    <tr>
+      <th>46</th>
+      <td>Bern</td>
+      <td>LOC</td>
+      <td>die Erstellung einesVerwaltungsgebändee in Be...</td>
+    </tr>
+    <tr>
+      <th>47</th>
+      <td>Speichergasse</td>
+      <td>LOC</td>
+      <td>in Bern an der Speichergasse einen Bauplatz z...</td>
+    </tr>
+    <tr>
+      <th>48</th>
+      <td>Berichterstatter</td>
+      <td>PER</td>
+      <td>derC)")zu erwerben. Der Ausschuß (Berichterst...</td>
+    </tr>
+    <tr>
+      <th>49</th>
+      <td>Staat</td>
+      <td>LOC</td>
+      <td>Platz (er gehört dem Staat Bern undgrenzt an ...</td>
+    </tr>
+    <tr>
+      <th>50</th>
+      <td>Bundesrathe</td>
+      <td>ORG</td>
+      <td>wird. Der Ausschuß empfiehltdem Bundesrathe z...</td>
+    </tr>
+    <tr>
+      <th>51</th>
+      <td>Bundesrath</td>
+      <td>PER</td>
+      <td>nicht ein geeignetererBauplatz sich finde.Bun...</td>
+    </tr>
+    <tr>
+      <th>52</th>
+      <td>Führer</td>
+      <td>PER</td>
+      <td>stille zu stehen. Die Führer der Kriegspartei...</td>
+    </tr>
+    <tr>
+      <th>53</th>
+      <td>Komitee</td>
+      <td>ORG</td>
+      <td>sich durchFlucht gerettet, das Komitee „Einhe...</td>
+    </tr>
+    <tr>
+      <th>54</th>
+      <td>Konstantinopel</td>
+      <td>LOC</td>
+      <td>löste sich auf. Wirtschaftlich zeigtKonstanti...</td>
+    </tr>
+    <tr>
+      <th>55</th>
+      <td>Alliierten</td>
+      <td>ORG</td>
+      <td>mangelten beim Einzug der Alliierten inerschr...</td>
+    </tr>
+    <tr>
+      <th>56</th>
+      <td>Oesterreich</td>
+      <td>ORG</td>
+      <td>ihrem fatalistisch-apathischenGleichmut uners...</td>
+    </tr>
+    <tr>
+      <th>57</th>
+      <td>Verbandes</td>
+      <td>ORG</td>
+      <td>In der gestrigenVollversammlung des Verbandes...</td>
+    </tr>
+    <tr>
+      <th>58</th>
+      <td>deutschnationalen</td>
+      <td>ORG</td>
+      <td>gestrigenVollversammlung des Verbandes der de...</td>
+    </tr>
+    <tr>
+      <th>59</th>
+      <td>deutschen</td>
+      <td>ORG</td>
+      <td>Zusammenschluß der deutsch-nationalen Partei,...</td>
+    </tr>
+    <tr>
+      <th>60</th>
+      <td>deutschradikalen</td>
+      <td>ORG</td>
+      <td>deutschen Agrarpartei und der deutschradikale...</td>
+    </tr>
+    <tr>
+      <th>61</th>
+      <td>JosephvonHabsburg</td>
+      <td>PER</td>
+      <td>22. Nov. (U. K.-B.) JosephvonHabsburg-Lothrin...</td>
+    </tr>
+    <tr>
+      <th>62</th>
+      <td>Ackerbauministerium</td>
+      <td>PER</td>
+      <td>heute vormittag auf dem Ackerbauministerium, ...</td>
+    </tr>
+    <tr>
+      <th>63</th>
+      <td>ammlung</td>
+      <td>MISC</td>
+      <td>diesen Tagen von der Nationalversammlung erle...</td>
+    </tr>
+    <tr>
+      <th>64</th>
+      <td>Niederlanden</td>
+      <td>LOC</td>
+      <td>sind die „Enka“ inden Niederlanden, die Dr. H...</td>
+    </tr>
+    <tr>
+      <th>65</th>
+      <td>Dr</td>
+      <td>PER</td>
+      <td>„Enka“ inden Niederlanden, die Dr. Hartogs, e...</td>
+    </tr>
+    <tr>
+      <th>66</th>
+      <td>Küttner</td>
+      <td>ORG</td>
+      <td>Courtaulds, prächtig entwickelte unddie Küttn...</td>
+    </tr>
+    <tr>
+      <th>67</th>
+      <td>Sachsen</td>
+      <td>LOC</td>
+      <td>entwickelte unddie Küttner in Sachsen, die gl...</td>
+    </tr>
+    <tr>
+      <th>68</th>
+      <td>Société</td>
+      <td>ORG</td>
+      <td>Sachsen, die gleichzeitig mit derSociété de l...</td>
+    </tr>
+    <tr>
+      <th>69</th>
+      <td>Emmenbrücke</td>
+      <td>LOC</td>
+      <td>de la Viscose in Emmenbrücke gegründet wurde,...</td>
+    </tr>
+    <tr>
+      <th>70</th>
+      <td>Japan</td>
+      <td>LOC</td>
+      <td>zu sein. Als Krisenvogel kamJapan zur Runstsc...</td>
+    </tr>
+    <tr>
+      <th>71</th>
+      <td>1923</td>
+      <td>MISC</td>
+      <td>Runstscidenindustrie; sein Produftionsanteil ...</td>
+    </tr>
+    <tr>
+      <th>72</th>
+      <td>1937</td>
+      <td>MISC</td>
+      <td>1923 350 000 lg. 1937 151 Millionen Rg. das h...</td>
+    </tr>
+    <tr>
+      <th>73</th>
+      <td>Dreysus</td>
+      <td>PER</td>
+      <td>verwendet; sie wird von Dreysus und Clavel in...</td>
+    </tr>
+    <tr>
+      <th>74</th>
+      <td>Clavel</td>
+      <td>PER</td>
+      <td>wird von Dreysus und Clavel in Basel und von der</td>
+    </tr>
+    <tr>
+      <th>75</th>
+      <td>Usines</td>
+      <td>ORG</td>
+      <td>der „Rhodiaseta“auch in den Usines du Rhone, ...</td>
+    </tr>
+    <tr>
+      <th>76</th>
+      <td>Deutschlandvon</td>
+      <td>LOC</td>
+      <td>du Rhone, und in Deutschlandvon den I. G. Far...</td>
+    </tr>
+    <tr>
+      <th>77</th>
+      <td>I</td>
+      <td>ORG</td>
+      <td>und in Deutschlandvon den I. G. Farben herges...</td>
+    </tr>
+    <tr>
+      <th>78</th>
+      <td>Italienpflanzt</td>
+      <td>LOC</td>
+      <td>bietet, ist die Baumwolle; Italienpflanzt heu...</td>
+    </tr>
+    <tr>
+      <th>79</th>
+      <td>Schweizliegt</td>
+      <td>LOC</td>
+      <td>Kunstscidefäden, hergestellt. In der Schweizl...</td>
+    </tr>
+    <tr>
+      <th>80</th>
+      <td>Schweden</td>
+      <td>LOC</td>
+      <td>noch in den Anfängen; inSchweden, das doch ke...</td>
+    </tr>
+    <tr>
+      <th>81</th>
+      <td>von</td>
+      <td>PER</td>
+      <td>Wohlener Hutlabrikation plötzlich nichtsmehr ...</td>
+    </tr>
+    <tr>
+      <th>82</th>
+      <td>als</td>
+      <td>MISC</td>
+      <td>die Wirkereiund der Rundstuhl: als 1910 jeman...</td>
+    </tr>
+    <tr>
+      <th>83</th>
+      <td>von</td>
+      <td>PER</td>
+      <td>jemand vomStrümplewirken sprach, antwortete v...</td>
+    </tr>
+    <tr>
+      <th>84</th>
+      <td>1923</td>
+      <td>MISC</td>
+      <td>bis 60 Prozentins Ausland. 1923 hat die Emmen...</td>
+    </tr>
+    <tr>
+      <th>85</th>
+      <td>Emmenbrücke</td>
+      <td>LOC</td>
+      <td>Ausland. 1923 hat die Emmenbrücke in Widnau-H...</td>
+    </tr>
+    <tr>
+      <th>86</th>
+      <td>Widnau</td>
+      <td>LOC</td>
+      <td>hat die Emmenbrücke in Widnau-Heerbrugg im Rh...</td>
+    </tr>
+    <tr>
+      <th>87</th>
+      <td>Heerbrugg</td>
+      <td>LOC</td>
+      <td>hat die Emmenbrücke in Widnau-Heerbrugg im Rh...</td>
+    </tr>
+    <tr>
+      <th>88</th>
+      <td>Rheintal</td>
+      <td>LOC</td>
+      <td>Emmenbrücke in Widnau-Heerbrugg im Rheintal e...</td>
+    </tr>
+    <tr>
+      <th>89</th>
+      <td>Feldmühle</td>
+      <td>ORG</td>
+      <td>hatte sich auch die Feldmühle, Norschach, auf...</td>
+    </tr>
+    <tr>
+      <th>90</th>
+      <td>Rheinfelden</td>
+      <td>LOC</td>
+      <td>(„NovaSeta"-Kupfer und Acetat) in Rheinfelden...</td>
+    </tr>
+    <tr>
+      <th>91</th>
+      <td>Das</td>
+      <td>MISC</td>
+      <td>seit 1929in Basel (Azetat). Das ahr 1932 brac...</td>
+    </tr>
+    <tr>
+      <th>92</th>
+      <td>1937</td>
+      <td>MISC</td>
+      <td>1932 brachte einenargen Rückschlag; 1937 war ...</td>
+    </tr>
+    <tr>
+      <th>93</th>
+      <td>1938</td>
+      <td>MISC</td>
+      <td>infolge der Abwertungein Rekordjahr; 1938 wir...</td>
+    </tr>
+    <tr>
+      <th>94</th>
+      <td>1936</td>
+      <td>MISC</td>
+      <td>In der Schweiz wurden 1936 an Viscose1651000 ...</td>
+    </tr>
+    <tr>
+      <th>95</th>
+      <td>1937</td>
+      <td>MISC</td>
+      <td>1936 an Viscose1651000 lg. 1937 1806 000 kg. ...</td>
+    </tr>
+    <tr>
+      <th>96</th>
+      <td>1936</td>
+      <td>MISC</td>
+      <td>000 kg. Aretat- undKupferseide 1936 299 000 l...</td>
+    </tr>
+    <tr>
+      <th>97</th>
+      <td>1937</td>
+      <td>MISC</td>
+      <td>299 000 lg und 1937 415 000 lgverbraucht. Der...</td>
+    </tr>
+    <tr>
+      <th>98</th>
+      <td>19363</td>
+      <td>MISC</td>
+      <td>Der Totalkconsum macht für 19363 062 000 lg u...</td>
+    </tr>
+    <tr>
+      <th>99</th>
+      <td>1937</td>
+      <td>MISC</td>
+      <td>000 lg und für 1937 3 526 000 lg aus.Den</td>
+    </tr>
+    <tr>
+      <th>100</th>
+      <td>Dr</td>
+      <td>PER</td>
+      <td>nochallerhand an den Tag. Dr. Dürsteler entkr...</td>
+    </tr>
+    <tr>
+      <th>101</th>
+      <td>Prof</td>
+      <td>PER</td>
+      <td>schönen Monographie entnommen, die Prof. Dr. ...</td>
+    </tr>
+    <tr>
+      <th>102</th>
+      <td>Fretx</td>
+      <td>ORG</td>
+      <td>Runstseide gewidmet hat.(Verlag Gebr. Fretx, ...</td>
+    </tr>
+    <tr>
+      <th>103</th>
+      <td>1930</td>
+      <td>MISC</td>
+      <td>hat.(Verlag Gebr. Fretx, Zürich, 1930)</td>
+    </tr>
+  </tbody>
+</table>
+  </body>
+</html>.
