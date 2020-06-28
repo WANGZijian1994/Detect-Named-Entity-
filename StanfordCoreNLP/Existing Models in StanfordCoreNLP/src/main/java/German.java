@@ -23,6 +23,7 @@ public class German {
 	//private Map<String,String>each;
 	private String ner;
 	private String label;
+	private String context;
 	
 	private int start;
 	private int end;
@@ -33,5 +34,11 @@ public class German {
 	public German(String text,List<Map<String,String>> labels){
 		this.text = text;
 		this.labels = labels;
+	}
+	
+	@Override
+	public String toString(){
+		String res = text + labels.toString();
+		return res;
 	}
 }

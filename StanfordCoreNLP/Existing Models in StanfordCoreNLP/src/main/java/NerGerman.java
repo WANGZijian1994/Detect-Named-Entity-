@@ -2,10 +2,7 @@ import edu.stanford.nlp.pipeline.*;
 import edu.stanford.nlp.ling.CoreLabel;
 
 
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.File;
+import java.io.*;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -13,12 +10,12 @@ import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
 
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Paths;
 import java.util.*;
 import java.util.stream.Collectors;
 
-import com.fasterxml.jackson.databind.JsonNode;
-import com.fasterxml.jackson.databind.ObjectMapper;
+
 
 public class NerGerman {
 	/*
@@ -32,7 +29,7 @@ public class NerGerman {
 	
 	public void readData(String address){
 		JSONParser jsonParser = new JSONParser();
-		try(FileReader reader = new FileReader(address)){
+		try(BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(address),"UTF-8"))){
 			Object obj = jsonParser.parse(reader);
 			
 			JSONArray annots = (JSONArray) obj;
@@ -56,14 +53,39 @@ public class NerGerman {
 		List<JSONObject>labels = (ArrayList)german.get("labels");
 		for(JSONObject x:labels){
 			Map<String,String>each = new HashMap<>();
+			int i = Integer.parseInt(x.get("start").toString());
+			int j = Integer.parseInt(x.get("end").toString());
 			each.put("ner",x.get("ner").toString());
 			each.put("start",x.get("start").toString());
 			each.put("end",x.get("end").toString());
 			each.put("label",x.get("label").toString());
+			each.put("context",contexte(text,i,j));
 			chacun.add(each);
 		}
 		item.setLabels(new ArrayList(chacun));
 		annots.add(item);
+	}
+	
+	public String contexte(String text,int left,int right){
+		int count = 0;
+		if(left>0)left--;
+		while(count < 5 && left >= 0){
+			left--;
+			if(left<0){break;}
+			if(text.charAt(left)==' '){
+				count++;
+			}
+		}
+		if(right<text.length()-1) right++;
+		count = 0;
+		while(count < 5 && right < text.length()){
+			right++;
+			if(right==text.length()){break;}
+			if(text.charAt(right)==' '){
+				count++;
+			}
+		}
+		return text.substring(left+1,right);
 	}
 	
 	public void detectNERStanford() throws IOException{
@@ -78,17 +100,14 @@ public class NerGerman {
 			German german = new German();
 			german.setText(text);
 			List<Map<String,String>>chacun = new ArrayList<>();
-			System.out.println(text);
+			//System.out.println(text);
 			for(CoreEntityMention em : doc.entityMentions()){
-				System.out.println(em.text()+" "+em.entityType()+" start : "+em.charOffsets().first+" end : "+em.charOffsets().second);
-				if(em.charOffsets().first>20 && em.charOffsets().second+20<text.length()) {
-					System.out.println("context : " + text.substring(em.charOffsets().first - 20, em.charOffsets().second + 20));
-				}
 				Map<String,String>each = new HashMap<>();
 				each.put("ner",em.text());
 				each.put("label",em.entityType());
 				each.put("start",em.charOffsets().first.toString());
 				each.put("end",em.charOffsets().second.toString());
+				each.put("context",contexte(text,em.charOffsets().first,em.charOffsets().second));
 				chacun.add(each);
 			}
 			german.setLabels(chacun);
@@ -119,12 +138,30 @@ public class NerGerman {
 	public static void main(String[] args) throws IOException {
 		NerGerman n = new NerGerman();
 		//n.demoNER();
-		//n.readData("/Users/zijian/ZijianStageEntiteNommee/Detect-Named-Entity-/data/train_java.json");
-		n.readData("/Users/zijian/ZijianStageEntiteNommee/Detect-Named-Entity-/data/dev_java.json");
+		n.readData("/Users/zijian/ZijianStageEntiteNommee/Detect-Named-Entity-/data/novo_train_de_for_java.json");
+		n.readData("/Users/zijian/ZijianStageEntiteNommee/Detect-Named-Entity-/data/novo_dev_de_for_java.json");
 		System.out.println(n.annots.size());
-		System.out.println(n.annots.get(0).getText()+n.annots.get(0).getLabels());
+		System.out.println();
+		JSONObject mT = new JSONObject();
+		for(int i = 0;i < n.annots.size();i++){
+			mT.put(i+1,n.annots.get(i).getLabels());
+		}
+		try(BufferedWriter file = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("/Users/zijian/ZijianStageEntiteNommee/Detect-Named-Entity-/spacyNER//corrections.json"), StandardCharsets.UTF_8))){
+			file.write(mT.toJSONString());
+			file.flush();
+		}catch(IOException e){e.printStackTrace();}
+		
 		n.detectNERStanford();
-		System.out.println(n.results.size());
-		System.out.println(n.results.get(0).getText()+n.results.get(0).getLabels());
+		
+		mT = new JSONObject();
+		for(int i = 0;i < n.results.size();i++){
+			mT.put(i+1,n.results.get(i).getLabels());
+		}
+		System.out.println(mT.size());
+		
+		try(BufferedWriter file = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("/Users/zijian/ZijianStageEntiteNommee/Detect-Named-Entity-/spacyNER//stanfordnlpRes.json"), StandardCharsets.UTF_8))){
+			file.write(mT.toJSONString());
+			file.flush();
+		}catch(IOException e){e.printStackTrace();}
 	}
 }
