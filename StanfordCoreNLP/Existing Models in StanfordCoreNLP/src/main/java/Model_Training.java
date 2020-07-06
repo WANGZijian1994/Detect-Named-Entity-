@@ -44,5 +44,7 @@ public class Model_Training{
 		//tagger.trainAndWrite(modelLoc,propsFile,trainfile);
 		
 		CRFClassifier model = tagger.getModel(modelLoc);
+		Triple<Double,Double,Double> scores = model.classifyAndWriteAnswers("/Users/zijian/ZijianStageEntiteNommee/Detect-Named-Entity-/StanfordCoreNLP/Existing Models in StanfordCoreNLP/DEV.txt",true);
+		System.out.println(scores);
 	}
 }
