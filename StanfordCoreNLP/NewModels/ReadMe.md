@@ -3,6 +3,6 @@ With the class CRFClassifier in Stanfordnlp, I have trained a new model NER Germ
 Global
 | Precision | Recall | F-Score |
 | --- | --- | --- |
-| 62.82% | 33.38% | 43.60% |
+| 78.82% | 42.73% | 55.42% |
 
  
