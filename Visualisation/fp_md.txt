@@ -1,0 +1,343 @@
+Condeer|1|8|LOC|(Condeer.] Petersburg den 18. Dec.
+St|130|132|LOC| Ankunft in Petersburg den St.Andreas-Orden u. den Maltheser Ritterorden
+Carossen|807|815|LOC| mit seiner Libréevor, auch Carossen mit seinem Wappen. Der Prinzwar
+Königreichs|765|776|LOC| welche in allen Theilendes Königreichs herrschen, werden Sie, wie ich
+Gefahrenund|1894|1905|PER| in einer Epoche von Gefahrenund Unglük, ( nächst der göttlichen
+Unglük|1906|1912|PER| einer Epoche von Gefahrenund Unglük, ( nächst der göttlichen
+Lansdowne|2213|2222|PER| Craven dafür, der Marquis Lansdowne undder junge Lord Holland (Neveu
+Lord|2294|2298|PER| For) dagegen.Im Unterhause schlug Lord Leveson Gower die Addressevor, die
+Burnharm|3047|3055|PER| Baron Nelson vomNil und Burnharm Torpe vererben soll) eine freyeLeibrente
+Theobald|3373|3381|PER| — Der bekannte Irländer Theobald Wolfe Tone, den man auf
+Tone|3388|3392|PER| bekannte Irländer Theobald Wolfe Tone, den man auf derBompartschen
+Nelson|3729|3735|LOC but correct : PER| aufkommen wird. —Die von Nelson bey Abukir eroberten Schiffe sind
+Landein|3922|3929|LOC| Aus Bengalen ist über Landein Courier angekommen, welcher über die
+Courier|3930|3937|LOC| Bengalen ist über Landein Courier angekommen, welcher über die Ankunft
+Lord|3997|4001|PER| die Ankunft desneuen Gouverneurs, Lord Mornington, Gewißheit mitbringt. Tippo Saib
+Belgische|1|10|PER|[Belgische Unruhen in den vereinigten Departements.]
+vereinigten|26|37|LOC|[Belgische Unruhen in den vereinigten Departements.] Wesel, vom 28. Nov.
+Sittard|398|405|PER but correct : LOC| 30. Nov. Die Kantons-Administrationvon Sittard beschwert sich gegen eine Stelle
+ehemalige|515|524|PER but correct : LOC| Gegend, und überhaupt das ehemalige Herzogthum Lüttich, als in dem
+Lüttich|536|543|LOC| überhaupt das ehemalige Herzogthum Lüttich, als in dem neuenAufruhr
+vom|795|798|MISC| wem? bleibt noch einRäthsel.Brüssel, vom 5. Dec. Die Rebellen sollen
+Betagerungsstand|1019|1035|LOC| Stadt aufs neue in Betagerungsstand gesezt; dieVerhaftungen der Geinlichen und
+Kühnheitgehabt|1660|1674|PER| die Insurgenten noch die Kühnheitgehabt, Löwen durch einen Trompeter
+Batavische|1981|1991|ORG but correct : LOC| der Angriff bey Asselt erfolgt.Batavische Reyublik. Haag, 29.Nov. Heute hat
+Sevilla|74|81|PER but correct : LOC| liest man: „DieZeitungen von Sevilla und viele andere Spanische Blätter
+Coupigny|924|932|LOC but correct : PER| denFlanken von Reding und Coupigny beschäftigte feindlicheHauptmacht. Am 19. Jul.
+Düpont|1049|1055|LOC but correct : PER| General Castanhjos die Nachricht: Düpont habeAndujar geräumt, und ziehe sich
+Hauptstraßenach|1108|1123|LOC| sich eiligst auf der Hauptstraßenach Madrid zurück. Hierauf wurden augenblicklich
+am|1542|1544|MISC| Unternehmen abgestanden. — Schon am 1. Jul. hatteder feindliche Angriff
+Saragossa|1613|1622|LOC| auf die Arragonische Hauptstadt Saragossa, unter dem General Lefebvre
+Derzirks|45|53|PER but correct : LOC| wodlgeachte Gemeindratd von Detuwol., Derzirks Mury, Cantons Aargau, dem hiesigen
+Mury|54|58|PER| Gemeindratd von Detuwol., Derzirks Mury, Cantons Aargau, dem hiesigen
+Cantons|60|67|PER but correct : LOC| von Detuwol., Derzirks Mury, Cantons Aargau, dem hiesigen Bezirksgericht mit
+Höfe|642|646|PER but correct : LOC| Winterschwyl, Brunnwyl, Wallenschwyl oderder Höfe Grüt, Summeri, Grod, Brand und
+Grod|662|666|PER but correct : LOC| oderder Höfe Grüt, Summeri, Grod, Brand und Tschöpliverschrieben sind,
+Verfluß|934|941|LOC| Quitstung einzusenden, indem nach Verfluß dieses Termingalle jene Schuldverschreibungen, wovon
+Frankteich|0|10|PER but correct : LOC|Frankteich.Pariser Korrespondenznachrichten vom 22. Jau.
+Broglie|1292|1299|PER| folgendes Schreiben desHerzogs von Broglie, Pairs von Frankreich, an
+Frankreich|1311|1321|LOC| von Broglie, Pairs von Frankreich, an denbekanntlich vor einiger
+MinisterDecazes|1435|1450|LOC but correct : PER| des Schreibens an den MinisterDecazes, H. Chevalier: „Mein Herr,
+Archipelagus|247|259|LOC| derauf mehreren Inseln des Archipelagus herrschenden Krankheiten angegeben habe, und
+UnsreKurialisten|889|905|PER| die Vorarbeiten im Gange. UnsreKurialisten erklären, wenn einige andere Deutsche
+Ungeachtetsämmtliche|1173|1193|PER| Ende ohne Nutzen bleibe. Ungeachtetsämmtliche Herren Vorgesetzte mit Ernst gegen
+Ernst|1217|1222|PER| Ungeachtetsämmtliche Herren Vorgesetzte mit Ernst gegen diesen Antrag sich aussprachen,
+Landammann|2092|2102|PER| Dominik Jütz ward als Landammann, und Hr. Alt-Kantonsseckelmeister Nazar
+Nazar|2137|2142|PER| Landammann, und Hr. Alt-Kantonsseckelmeister Nazar Richlin als Statthalter für die
+Spitzeeiner|1723|1734|PER| Moldau rückte, an der Spitzeeiner Bande Ruchloser, seiner Proselyten; daß
+Principien|4560|4570|LOC| unbestimmte, mit den Maximenund Principien aller Regierungen unverträgliche Antwort, sondern
+BesilsAghalari|7606|7620|PER but correct : ORG| unter dem Befeyle der BesilsAghalari von zwey Provinzen ständen, so
+Aghalari|8392|8400|PER| desRangs der obenerwähnten Besils Aghalari's in Anregung gebracht undvorgestellt
+Absichtverlangt|8908|8923|LOC| von Bevollmächtigten in der Absichtverlangt worden sey, die mit Stroganoff
+Stroganoff|8944|8954|LOC but correct : PER| worden sey, die mit Stroganoff angeknüpften Konferenzen zumAbschluß, so wie
+Handen|1713|1719|PER| Wettingen unbefugtausgeübt wurde, zu Handen der kathol. Konfessionstheile des KantonsSt.
+Baron|2667|2672|PER| und wir beauftragen damitHrn. Baron v. Chambrier, Maire von Valangin.""""
+Chambrier|2827|2836|PER| Bruder dieses Hrn. v. Chambrier im Jahr 1834 im legislativenRathe
+im|2837|2839|MISC| dieses Hrn. v. Chambrier im Jahr 1834 im legislativenRathe gesprochen:
+Deutschland|720|731|LOC| Schweiz und das nördliche Deutschland werden die Waaren, die siebisher
+Bordeaux|2252|2260|LOC| der junge Herzog von Bordeaux sich schädlichen Rathschlägenund der Hitze
+Fürstenthums|2437|2449|PER but correct : LOC| eineProtestation des Bauernstandes des Fürstenthums Osnabrück verursachthaben, die nun in
+Roms|3493|3497|PER but correct : LOC| hier aufhalten, umdie Bibliotheken Roms zu seinen Studien zu benutzen.
+Tilff|4303|4308|LOC| Z.)Belgien. Der Bürgermeister von Tilff, Hr. Neef, ist von
+Priesterpartei|4429|4443|ORG| Longrée, welcher von der Priesterpartei unterstützt wurde, und einnaher Verwandter
+Jedermann|5059|5068|PER| merkwürdigsten Stellen. „Es ist Jedermann bekannt, und die theologischen und
+Pest|6444|6448|LOC| Menschlichkeitnöthig, Maßregeln gegen die Pest zu ergreifen, zugleich aber an
+Zollvereinsstaatenzu|6624|6644|ORG| Mai. Die Bevollmächtigten der Zollvereinsstaatenzu der hier Statt findenden Münzkonferenz
+Nationalgarde|409|422|ORG| Offizieren, den Soldaten der Nationalgarde, mit allen Bürgern, die
+Paris|863|868|LOC| erinnern. Das Volk von Paris bedarf keiner Schlacht;weiß, daß es
+unterm|975|981|MISC| zu besiegen."Iratien. Neapel. Die unterm 10. Febr. von dem Königund
+Ministern|1013|1022|PER| von dem Königund den Ministern unterzeichnete und den Tag darauf
+König|1129|1134|PER| Artikeln. Im Eingange ruftder König Gott zum Zeugen der Reinheit
+Nationalgarde|2673|2686|ORG| einesGesetzes veräußert werden. Die Nationalgarde muß eingeführtwerden. Deren Bildung und
+Anklagezustand|4500|4514|LOC| Deputirtenkammer kann dieselben in Anklagezustand orrsetzen, worauf sie von der
+Königkann|4579|4588|PER| Pärskammer beurtheilt werden. Der Königkann die verurtheilten Minister nur dann
+Schlägereien|124|136|LOC| dem demokratischen Verein zu Schlägereien. Laut einer Korrespondenz derFr.
+Wortwechsel|327|338|LOC| verlangte Räumung desselben. Aus Wortwechsel entstehtHandgemenge, und so kam es
+Preußen|471|478|LOC| Flucht, um den Schlägender „Preußen" zu entgehen; einige verkrochen
+Ställen|519|526|LOC| einige verkrochen sich in Ställen,andere sogar in Schornsteinen. Bei
+Straße|602|608|LOC| so unklug, auf der Straße „Republik" zu brüllen. Er wurde
+RepublikanerEdgar|806|823|LOC but correct : PER| Personen zweifelt. Auch der RepublikanerEdgar Bauer ist arg zugerichtet. So
+Verwaltungsrathes|365|382|LOC| die Jahresrechnung. Im Namendes Verwaltungsrathes referirte Hr. Ott-Imhof über diesebeiden
+Einmuth|732|739|LOC| erhob die Versammlung mit Einmuth zum Beschlusse. Hierauf schritt sie
+auszusprechenEs|1896|1911|LOC| Fortgestaltung des schweizerischen Eisenbahnwesens auszusprechenEs wurden sodann zu Mitgliedern des
+Herren|1976|1982|PER| des Verwaltungsrathes gewählt: die Herren Stadtpräsident Steiner imWinterthur, Nationalrath Wäffler-Egli
+Nationalrath|2020|2032|ORG but correct : PER| Herren Stadtpräsident Steiner imWinterthur, Nationalrath Wäffler-Egli in Winterthur,Präsident Kappeler in
+Nationalrath|2090|2102|ORG but correct : PER| Winterthur,Präsident Kappeler in Zürich, Nationalrath Fierz inZürich, Oberstl. v. Muralt
+RegierungsrathMüller|2153|2173|PER| Muralt in Zürich, alt RegierungsrathMüller in Winterthur, Bezirksgerichtspräsident v. Zieglerl
+Regierungsrath|2276|2290|PER| Schaffhausen, Blank-Arbenz in Schaffhausen,alt Regierungsrath Hüni-Stettler, LandesstatthalterHanauer in Baden, alt
+Eisenbahnwesens|2758|2773|LOC| Nordostbahn und des ostschweizerischen Eisenbahnwesens überhaupt Interesse hat
+seit|2083|2087|MISC| Senn von Liestal, welcher seit 1. Julidie Redaktion des Zürcherschen
+Julidie|2091|2098|PER| Liestal, welcher seit 1. Julidie Redaktion des Zürcherschen Intelligenzblattes führt,
+Zürcherschen|2113|2125|LOC but correct : MISC| 1. Julidie Redaktion des Zürcherschen Intelligenzblattes führt, hatfrüher die Basellandschaftliche
+Baselland|2247|2256|PER but correct : LOC| eines der bestbesorgten Schweizerblätter, redigirt.Baselland. Die Basellandschaftliche Zeitung vernimmt
+Baden|2377|2382|LOC| vor einigen Tagen beim Baden im Genfer-See ertrank und deren
+Kameel|2713|2719|MISC| erschienenen Zeugen als ein „Kameel" gezeichnetwerden müsse, indem der
+Jawohl|2995|3001|PER| Bären anzubinden gewußt hat. Jawohl,von unserer Presse kann man
+Alsnämlich|193|203|PER| es Zank und Streit. Alsnämlich Schneider Krebser auf die Liste
+Meier|270|275|PER| Liste gesetzt wurde,verlangte Thierarzt Meier entrüstet, daß nun seine eigeneWahl,
+Republikaner|382|394|ORG but correct : MISC| war, annullirtwerde, worauf laut „Republikaner" ein heller Aufruhrunter den
+Zürich|785|791|LOC| gesetzt wurden.— Der Stadtverein Zürich hat in seiner Versammlung vom
+Jahrhundertehindurch|1991|2011|PER| echt Schönen nicht rauben. Jahrhundertehindurch hat er seine Stellung zu
+Heckers|3169|3176|PER| die der „weicheFilz" als Heckers Revolutionshut alldort seiner Zeit gespielt
+Zugedurch|4192|4201|PER| Sherman auf seinem denkwürdigen Zugedurch Georgia, daß der kühne Reiterführer
+Machtsich|5187|5196|PER| Kopfbedeckung für die Massen. Machtsich das „Verwachsen der Uniform" bei
+Landwehrmann|5360|5372|PER| Fall sein. EinReservist und Landwehrmann unter einer solchen Mütz
+Locher|304|310|PER| aus dem Verfassungsrath zurückziehe;Hr. Locher schlug dieß rund ab). Das
+Adolf|359|364|PER| ab). Das Sekretariat wurdeHrn. Adolf Vögeli, Ingenieur, übertragen. In seinerAntwort
+Freies|3220|3226|ORG| von anderen Seiten vorgeschlagen:10) Freies Niederlassungsrecht für Schweizerbürger;11) Erleichterung der
+RabrlihDaß|17|27|ORG but correct : LOC|Aus Spanien. 61. RabrlihDaß Madrid eine uralte Stadt sei,
+Schlangenthores|443|458|LOC| einen Stein des sogen. Schlangenthores, in welchem eine Schlange
+Cadmus|640|646|MISC but correct : PER| daßMadrid zur Zeit des Cadmus schon ein Thor hatte, alsoschon
+Herren|1554|1560|PER| Reihe wichtiger Dinge der Herren Schweizer (dei signori svizzeri)anfängt: „2226
+Adams|1633|1638|LOC but correct : PER| Jahre nach der Schöpfung Adams und1554 nach der Sündfluth, zu
+Christi|1729|1736|PER| und 1530 Jahre vor Christi Geburt, wurdedie Stadt Zürich erbaut
+Zürich|1760|1766|LOC| Christi Geburt, wurdedie Stadt Zürich erbaut von einem heidnischen Könige..
+Granada|2065|2072|PER but correct : LOC| Reiche, wie Toledo, Cordoba, Granada, Leon,Burgos, Zaragoza u. s.
+Leon|2074|2078|PER but correct : LOC| wie Toledo, Cordoba, Granada, Leon,Burgos, Zaragoza u. s. f.
+Burgos|2079|2085|PER but correct : LOC| wie Toledo, Cordoba, Granada, Leon,Burgos, Zaragoza u. s. f.
+Zaragoza|2087|2095|PER but correct : LOC| Toledo, Cordoba, Granada, Leon,Burgos, Zaragoza u. s. f. Als endlich
+Spanien|2414|2421|LOC| zuerst daran, dem einheitlichen Spanien eine Hauptstadt zu geben und
+Dieunvermeidlichen|3308|3326|PER| herrliches Klima besessen habe. Dieunvermeidlichen Kontraste in der Temperatur, die
+Sommerhitze|3382|3393|LOC| Temperatur, die raschenUebergänge von Sommerhitze zu winterlicher Kälte, haftenan der
+Madrid|3918|3924|LOC| tan sotils:se:(Die Luft von Madrid ist so fein, daß sie
+deutsche|4538|4546|PER| derprimitivsten Kleidungsstücke: wenn der deutsche Bauereine alte Pferdedecke über den
+Ministeriumaußerhalb|474|494|LOC| der Schweiz und das Ministeriumaußerhalb des Parlamentes steht, ist es
+Weggange|3176|3184|PER| Politik scheint Deutschlandseit dem Weggange Bismarck's von Berlin vonder Szene
+Verhältnissevor|3291|3306|PER| geübt worden, wenn er Verhältnissevor sich sah, die er nicht
+Ostschweiz|356|366|LOC but correct : MISC| mit einigen Zwischenbemerkungen begnügt.Sowohl „Ostschweiz" als „Solothurner Anzeiger" zogen
+Revue|1620|1625|MISC| des „Genevois" und derLausanner „Revue" Aehnlichkeit hat, handelt essich
+Wennein|3396|3403|LOC| ihre Wirkungen loben müsse. „Wennein Platz belagert ist — wir
+Mitgabe|1477|1484|LOC| Ende auch vorhanden sei.Nach Mitgabe von Verfassung und Gesetz des
+Letzteresind|2769|2781|PER| politischeGemeinden, Schulgemeinden und Kirchgemeinden. Letzteresind Organe der Staatsorganisation. Eine kirchliche
+Staatsorganisation|2793|2811|ORG| Kirchgemeinden. Letzteresind Organe der Staatsorganisation. Eine kirchliche Behörde, von
+Mohl|5256|5260|PER| ist zu bemerken, daß Mohl den Kirchendas Recht der Expropriation
+Guyer|5951|5956|PER| eigentlichen Sinn hat zwar Guyer nicht zu entrichten.Allein die Abtretung
+Bundesrath|6041|6051|ORG but correct : PER| Bürgliterrasse ist mehr als eineSteuer.Bundesrath Ruchonnet: In casu handelt es
+Zürcher|6330|6337|ORG| nicht anrufen.Das Expropriationsdekret der Zürcher Regierung ist einrein bürgerlicher Akt,
+Rath|8092|8096|ORG| wird daraufder Rekurs abgewiesen.Der Rath tritt darauf in die für
+Dr|8292|8294|PER| Reali).Der Ausschuß beantragt einstimmig einzutreten.Dr. Göttisheim bemerkt, er finde
+Bundesunterstützungen|9624|9645|LOC| der kantonalen Hochschulen nach Bundesunterstützungen stehen die physikalischenInstitute obenan. Im
+Bundesrath|9908|9918|ORG but correct : PER| Subventionsgesuch der Hochschulen sehr ermunternd.Bundesrath Schenk: Man sagt, das wissenschaftliche
+Laboratorien|10158|10170|LOC| nur Hörsäle, sondern auch Laboratorien unddazu unterirdische Laboratorien. Wir verlangen,
+Zürcher|10644|10651|ORG| nicht zu haben. Die Zürcher Hochschule bedarf des Physikalunterrichts, sowie
+Bundesrath|12207|12217|ORG but correct : PER| nicht ein geeignetererBauplatz sich finde.Bundesrath Schenk: Wir können uns diesen
+Joseph|92|98|PER| Obergerichtes verurteilte den Fuhrknecht Joseph Alterer, vonBiltenhausen, Bayern, geb. 1869
+Bayern|125|131|LOC| Fuhrknecht Joseph Alterer, vonBiltenhausen, Bayern, geb. 1869 wegen fahrlässigerTötung
+Wolfensperger|472|485|LOC| befindliche zweijährige Mädchen Ida Wolfensperger nicht und dieKleine konnte sich
+ZürichEugen|701|712|PER| Buchhalter einer Bank in ZürichEugen Frey von Zürich geb. 1872
+Zürich|722|728|LOC| in ZürichEugen Frey von Zürich geb. 1872 gab am 27.August
+Lyonais|1001|1008|LOC| Lstr. 10 an denCredit Lyonais für Rechnung eines Kaufmanns inZürich
+Baden|1643|1648|LOC| der vielfachen Warnung, beim Baden allfällige Wertsachen dem Badmeister zur
+Georg|1861|1866|PER| mitgenommen. Der erst vierzehnjährigeKnabe Georg Pfister von Tuggen, Kanton Schwyz,schlich
+Kanton|1887|1893|LOC| Georg Pfister von Tuggen, Kanton Schwyz,schlich sich nun in die
+Rudolf|2191|2197|PER| eine Besserungsanstalt gewiesen.Der Handlanger Rudolf Hermann, geb.1866 von Neu-Läßig, Preußen,
+Preußen|2231|2238|LOC| Hermann, geb.1866 von Neu-Läßig, Preußen, wohnhaft gewesen inHöngg, hatte
+Meier|2349|2354|PER| 2 Uhr dem Gemeindegutsverwalter Meier inRümlang aus dessen Schreibpult in
+Gemeinde|2452|2460|LOC| Das Geld gehörte der Gemeinde Rümlang. Rudolf konnte dann bald
+Kantons|117|124|LOC| Versammlung der Offiziersgesellschaft des Kantons Zürich dieses Jahr inWinterthur nächsten
+Caneggio|974|982|PER but correct : LOC| Zeit ablieferten. Genannt werden Caneggio, Bogno, Crana und Ponte
+Bogno|984|989|PER but correct : LOC| ablieferten. Genannt werden Caneggio, Bogno, Crana und Ponte Valentino.rebrigens
+Crana|991|996|PER but correct : LOC| Genannt werden Caneggio, Bogno, Crana und Ponte Valentino.rebrigens beträgt die
+Schadens|1354|1362|LOC| 70 Prozent des erlittenen Schadens vergütet erhalten. — Der Gesamtschaden
+Naturalien|1491|1501|LOC| Fr. in Form von Naturalien, der Rest in bar
+Faßbänders|3778|3788|PER| Außersihl alsfreien Vortrag, Kunstgesang, Faßbänders Lied „An dieSonne". Drei Gesamtchöre
+Musikdirektor|3884|3897|PER| sitzt u. a. Herr Musikdirektor GabrielWeber aus Zürich
+Elisabeth|886|895|PER| Als Vokalsolistin wurde FrauDr. Elisabeth Meyer-von Orelli (Mezzo-Sopran)gewonnen, die als
+LiederkranzAußersihl-Zürich|1010|1037|MISC but correct : ORG| und geschätzt ist. Der „LiederkranzAußersihl-Zürich" unter Hrn. J. WydlersDirektion
+Blumenthal|1776|1786|LOC but correct : PER| „Imweißen Rößl", Lustspiel von Blumenthal und Kadelburg; abends 73 Uhr
+Kadelburg|1791|1800|LOC but correct : PER| Lustspiel von Blumenthal und Kadelburg; abends 73 Uhr „Die
+Verdi|1874|1879|LOC but correct : PER| Montag „Aida", Oper von Verdi, Abon.,Anf. 7½ Uhr. Mittwoch
+Abon|1962|1966|PER| Lustspielvon Caillavet und Flers, Abon., Auf. 8 Uhr. Donnerstag
+Abon|2214|2218|PER| fliegende Holländer", Oper von Wagner,Abon., Anf. 8 Uhr. Samstag
+Cavalleria|2350|2360|MISC| Weber; abends 8 Uhr „Cavalleria Rusticana"; hierauf „Der Bajazzo",Pfauentheater. Sonntag
+Freitag|2517|2524|PER| wollt", einFastnachtspiel von Shakespeare. Freitag Roderich Benedix-Abend: „Die Dienstbotboten", Lustspiel,
+Störenfried|2594|2605|ORG| „Die Dienstbotboten", Lustspiel, hierauf„Der Störenfried", Lustspiel. Sonntag „Die Liebewacht",
+Caillavet|2659|2668|ORG but correct : PER| „Die Liebewacht", Lustspiel von Caillavet und Flers. Anfangjeweilen abends 8
+Stadt|2737|2742|LOC| Uhr.— Die Kunstgewerbeschule der Stadt Zürichveranstaltet vom 26. bis 29.
+Alter|3216|3221|LOC| Sämtliche Verhaftete stehen im Alter von 18 bis 25 Jahren;
+Firma|3509|3514|LOC but correct : ORG| In den Schaufenstern der Firma Forsteru. Altorfer an der Theaterstraße,
+Waffenstillsland|0|16|LOC|Waffenstillsland.Berlin, 22. Nov (Wolff.) Wie
+Novembermit|230|241|LOC| Staffel wird am 22. Novembermit dem Begleitschiff „Alexandra Woermann"folgen.Paris, 22.
+Woermann|271|279|PER| Novembermit dem Begleitschiff „Alexandra Woermann"folgen.Paris, 22. Nov. (Havas. Amtliche
+Noven|352|357|ORG| französische Mitteilung vom 21. Noven ber, 11 Uhrabends.) In Belgien
+Derweitere|926|936|PER| ein begeisterter Empfang bereitet. Derweitere Vormarsch im Elsaß inmitten der
+Vortagenan|1010|1020|ORG| dauerte wie in den Vortagenan. Unsere Truppen haben ihren
+GemblouxWavre|1529|1542|PER but correct : LOC| haben sie die Linie GemblouxWavre erreicht.Paris, 22. Nov. (Havas.) Amtlicher
+Paris|1552|1557|LOC| sie die Linie GemblouxWavre erreicht.Paris, 22. Nov. (Havas.) Amtlicher
+Havas|1569|1574|ORG| GemblouxWavre erreicht.Paris, 22. Nov. (Havas.) Amtlicher amerikanischer Bericht vom
+Noven|1618|1623|ORG| amerikanischer Bericht vom 21. Noven ber. Diedritte Armee hat bei
+Luxemburg|1803|1812|LOC| unsere Truppen die Stadt Luxemburg passiert. Die Zivilbevölkerung empfing sie
+Hindernissein|2903|2916|LOC| dieTschechen legen dem Durchmarsch Hindernissein den Weg. Da sie zwischen
+Major|3432|3437|PER| des Marschalls Foch, derenglische Major Großfield, der tschechoslowakische Major Reslinger
+Henry|4702|4707|PER| hoherFunktionär kam dann Generel Henry Wilson,dessen Truppen in den Forts
+Talaat|4917|4923|LOC but correct : PER| der Kriegspartei, Enver und Talaat, haben sich durchFlucht gerettet,
+neue|6457|6461|ORG| näheren Organisationsbestimmungen vorzulegen. Die neue Partei zählt 85 Mitglieder (im
+Graf|7600|7604|PER| ohne irgendwelchen Zusatz, wieFürst, Graf, Baron, Ritter usw., der
+Baron|7606|7611|PER| irgendwelchen Zusatz, wieFürst, Graf, Baron, Ritter usw., der den
+Nachtarbeitwird|8370|8385|PER| um 12 Uhr mittags. Nachtarbeitwird nur dort gestattet, wo die
+am|8586|8588|MISC| herangezogenwerden. Das Gesetz soll am 1. Dezember 1918 inKraft treten
+Bangensah|5737|5746|PER| der bürgerlichen Presse; mit Bangensah man dem Montag entgegen, der
+Herrn|6613|6618|PER| den Kommandanten der Ordnungstruppen, Herrn Oberst Sonderegger, gesetzthatte. Während in
+ZürcherBürgerschaft|9286|9305|ORG| Der rechtliche Sinn der ZürcherBürgerschaft aber entschied sich dahin, in
+Bürgerlichen|9578|9590|ORG but correct : MISC| verteilten die ersteNummer der „Bürgerlichen Presse Zürichs" Sonannte sich das
+Bürgerlichen|9951|9963|ORG but correct : MISC| vergriffen. Das Erscheinen der „Bürgerlichen Presse Zürichs" bildet den Wendepunkt
+Zürich|10080|10086|LOC| der den Generalstreik in Zürich und mitihm den Landesstreik aus
+Zubloßem|10435|10443|PER| der Arbeiterunion die Gefolgschaft. Zubloßem Sympathiestreik waren die Leute, derenweitestgehende
+Regierung|10720|10729|PER| stellte der Bürger fest,daß Regierung und Räte sich an der
+Räte|10734|10738|PER| Bürger fest,daß Regierung und Räte sich an der Festigkeit undEntschlossenheit
+MancherSchweizer|11496|11512|PER| seine Segnungen vergessen hatten. MancherSchweizer Arbeiter bekannte: „Wenn wir nur
+Eidgenössisches|0|15|PER|Eidgenössisches Sängerfestin Lausanne.A.Am heutigen Morgen wird
+A.Am|38|42|LOC|Eidgenössisches Sängerfestin Lausanne.A.Am heutigen Morgen wird die schweizerischeSängerfahne,
+Schweizervolk|848|861|LOC| großen Festean, die das Schweizervolk so gerne feiert und sogut
+Festkomitees|2790|2802|ORG| die Vorbereitungsarbeit, die vonden Festkomitees in Lausanne unter der energischen
+Bersier|2888|2895|PER| Führung des Kantonalbankdirektors Henri Bersier geleistet worden ist. Dazu dienatürlichen
+Schweiz|3612|3619|LOC| schweizerischen Männerchöre indie welsche Schweiz, das Landes-Sängerturnierabzuhalten. Ihrer warten
+Eidgenössischen|3962|3977|LOC but correct : ORG| der nahezu 200 im Eidgenössischen Sängerverein verbundenen Männerchöre nehmen am
+Schweiz|4300|4307|LOC| davonallein 49. Die welsche Schweiz, inbegriffen dievier festgebenden Lausanner
+Anreiz|6183|6189|LOC| der Leistungsfähigkeit gehoben. Sein Anreiz scheint auch heutenoch größer zu
+Bearbeitungen|7711|7724|LOC| wenn auch nur in Bearbeitungen, nicht fehlen, mögen Mendelssohn
+Männerchorsaches|8215|8231|PER| ihmein vielgenannter Neuerer des Männerchorsaches,Erwin Lendvai, und macht ihm
+Erwin|8232|8237|PER| ihmein vielgenannter Neuerer des Männerchorsaches,Erwin Lendvai, und macht ihm den
+MitGlück|9597|9605|PER| inLausanne versprechen besonders Schönes. MitGlück ist in ihren Programmen die
+Begrüßungskonzerten|10592|10611|LOC| Tausenden von Sängern in Begrüßungskonzerten etwasSeltenes der gemischten Chorliteratur zu
+Schweiz|10929|10936|LOC| Lausanne,in der festspielbewährten welschen Schweiz, durchJaques' Festspiel „Notre lays“
+BäckersProduzent|339|355|PER| in der Person des BäckersProduzent und Händler vereinigt sind ist
+Originaldokumenten|4525|4543|LOC| undmanchmal bestürzende Musterkarte. Mit Originaldokumenten belegte Tatsachen zeigen, daßalle Mittel
+Preispfuscher|4857|4870|PER| daß als bekämpfter Gegner,kurzweg: Preispfuscher genannt, jedermann gilt,der die verabredeten
+Danun|6280|6285|LOC| in der Schweiz verteuern. Danun aber zum Aufwerfen dieses Problems
+Anwendungaller|6735|6749|PER| aus den Abnehmern mit Anwendungaller Künste herausschlagen können? Und wenndiese
+Konsument|10489|10498|PER| wie meistens imVerhältnis von Konsument und Händler, nurscheinbar und kann
+Zürcher|0|7|PER|Zürcher FilmrundschauCapitol. cs. „Der Tiger von
+Banditenhäuptling|906|923|ORG| seinem Vater ab, dem Banditenhäuptling. Wer paßte dazu besser
+Apollo|1574|1580|LOC but correct : ORG| Gesichter auftauchen, einsulminantes Tempo bekommen.Apollo. eb. Früher mußten die
+Juwelenräubers|2301|2315|PER| eines grantigen Raufbolds und Juwelenräubers; doch da sich gleich
+Zola|3061|3065|PER| Muni ist ein Emile Zola, dem man trotz allenEigenheiten
+Goumoéns|109|117|PER| Novemder Oberst E. von Goumoéns. Präsident desVerwaltungsrates der Société
+Société|153|160|ORG| Goumoéns. Präsident desVerwaltungsrates der Société de la Viscose. Emmendrücke, über
+Reserent|239|247|PER| die schweizerische Kunstseidenindustrie. Der Reserent, der 1906 vondieser Gesellschaft
+der|249|252|MISC| schweizerische Kunstseidenindustrie. Der Reserent, der 1906 vondieser Gesellschaft als Direktor
+Robert|698|704|PER| 1665 schrieb der Engländer Robert Hoole,es sollte möglich sein, wie
+Gelatinefäden|1060|1073|PER| ldee kam,durch Verlestigung von Gelatinefäden (gomme liquide) sollte man eine
+Basel|1231|1236|LOC| Friedrich Schönbein, Professor in Basel, die Kollodiumwolle, das heißt
+Graf|2148|2152|PER| Fäden Koagulierte. Derweißbärtige Erfinder, Graf Hilaire de Chardonnet, mußte aber
+Durchdas|3025|3033|PER| und Bronnert beteiligt sind. Durchdas TLhiele - Bembergsche Streckspinnversahren wurde
+Baumvoll|3648|3656|PER| beteiligt. Ihr Rohmaterial sind Baumvoll Linters, so heißt die Wolle,
+Besançon|3944|3952|PER but correct : LOC| Kunstseidenindustrie ging zunächst von Besançon aus, woheute nicht mehr Nitro-
+Pölten|4918|4924|LOC| light).Kunstscidenunternehmungen entstanden auch inSt. Pölten, in den Ardennen (Givet
+Givet|4943|4948|ORG but correct : LOC| Pölten, in den Ardennen (Givet Bernheim) bei Lyon (Izicux).Wegen des
+Bevan|5223|5228|LOC but correct : PER| Kauftedie Patente von Cross, Bevan und Beadle auf undbaute sie
+Beadle|5233|5239|LOC but correct : PER| von Cross, Bevan und Beadle auf undbaute sie zu der
+Gualino|6428|6435|LOC but correct : PER| , die Snia viscosa (Gualino). Vom Comptoir aus gingen
+Versailler|6531|6541|PER| in Köln-Rottweil, diedurch die Versailler Verträge zur Umstellung gezwungen war
+Dreysus|7196|7203|LOC but correct : PER| verwendet; sie wird von Dreysus und Clavel in Basel und
+Clavel|7208|7214|LOC but correct : PER| wird von Dreysus und Clavel in Basel und von der
+Rhodiaseta|7237|7247|MISC but correct : ORG| Basel und von der „Rhodiaseta“auch in den Usines du
+Viscose|8648|8655|ORG| — Kontinuierlich ist. Der Viscose entspräche also dieTag und Nacht
+Absatz|9777|9783|LOC| allmählich im eigenen Lande Absatz fand,stellte sich zuerst nur auf
+Regenschirme|11143|11155|LOC| Goumoéns:„Sagen Sie lieber gleich Regenschirme!" Heutehaben wir beides. Zuletzt
+Viscose|12628|12635|LOC| („NovaSeta"-Kupfer und Acetat) in Rheinfelden(Viscose), in Steckborn (Viscose) und
+Viscose|12652|12659|LOC| in Rheinfelden(Viscose), in Steckborn (Viscose) und seit 1929in Basel
+Azetat|12684|12690|LOC| und seit 1929in Basel (Azetat). Das ahr 1932 brachte
+Rekordjahr|12771|12781|MISC| war infolge der Abwertungein Rekordjahr; 1938 wird wohl Einbußen
+E.|13964|13966|ORG| Prof. Dr. H. Ed. Fierz,E. T.H. Zürich, der Runstseide gewidmet
+Kalten|50|56|MISC| bächte über BerlinNeben dem „Kalten Krieg" um die frühereHauptstadt Deutschlands,
+Müchte|666|672|PER| wenn man die Absichtender Müchte und die Aussichten auf eine
+Panike|2121|2127|PER| ist es möglich, dass Panike und grenzenloser Dekaitismus sich blitzschnell
+Rulland|2750|2757|ORG but correct : LOC| ihr Rechtnicht preisgeben können. Rulland dugegenscheint an die Entsehlossenheit seiner
+Moskeau|6950|6957|PER but correct : LOC| „der Verstüekelung Deutsehlands" wie Moskeau es in seiner Note bezeichnet
+Druckmittel|7544|7555|LOC| greiken sucht. Als Pfandund Druckmittel könnte unter UmstündenBerlin gebraucht werden,
+UmstündenBerlin|7569|7584|PER but correct : LOC| Pfandund Druckmittel könnte unter UmstündenBerlin gebraucht werden, und weiter riehtetsich
+ViermüchteKontrolle|7995|8014|MISC but correct : ORG| Verletzung derinternutionalen Abkommen „der ViermüchteKontrolle entzogen" worden. Dieser Vorwurfstützt sich
+Washingtons|9005|9016|PER but correct : LOC| einer WiederwahlTrumans die Aullenpolitik Washingtons sichündern wird, und weil die
+Nationalsozialisten|9512|9531|ORG| Kreml, genau wie die Nationalsozialisten es einst unterschätzt haben. Vielleicht
+Mahmud|86|92|PER| Kairo ermordete ögxptische Ministerprüsident Mahmud Fahmi Al-Nostraschi Pascha gehörte, obsohl
+Fxüherer|291|299|PER| die politischeArena hinabgestiegen sind. Fxüherer Anbünger desWaldl, wie überhaupt alle
+bis|476|479|MISC| das nur vom Jannar bis Juni 1930 im Amteblieb. Dasselbe
+Nahas|562|567|ORG| noch einmal imdritten Kabinett Nahas vom Mai 1936. Sein munteres
+Altersgenossen|714|728|PER| auberdem seinem Parteikreund und Altersgenossen Amed Maher Pascha näher, dem
+Ilre|841|845|ORG| der Folge nicht mehr trennte.Ilre parallele Laukbalin begann in London,
+Laukbalin|856|865|LOC| nicht mehr trennte.Ilre parallele Laukbalin begann in London, alsSie sich
+NalasPuscha|1632|1643|ORG but correct : PER| Diesen Vertrag Untte nun NalasPuscha den Briten abgerungen. Die Rolle
+Delegntion|1681|1691|ORG| Briten abgerungen. Die Rolle der„Delegntion" des Wafd, war somit
+Nahas|1831|1836|LOC but correct : PER| Eheid und ingeringerem Male Nahas, s0, als ob sie
+Favoritismus|1965|1977|MISC| ökkentlichen Gelder, Bestechlienkeit und Favoritismus muchten sich breit. Eswurdle so
+Watd|2173|2177|LOC but correct : ORG| FreundeMnhier undl Nokruschi vom Watd los und gründetengemeinsum eine neue
+Sand|2258|2262|PER| dem Gründer des Wufd, Sand Engblul, Sandistische Parteiunnnten, unter dem
+BruderAhmeds|2514|2526|ORG| Ali Maher Pascha, der BruderAhmeds, bei der Bildung eines
+Nokraschi|2622|2631|PER| bot er ihrem l'rüsidenten, Nokraschi, dus Ereiebungsminiskerium an.lm Juni
+Suliri|2822|2828|PER| und Nokraschi wurdevom Knbinett Hasenn--Suliri Poseln uls Innenminisker, übernommen. Dieses
+Eriegszeitenünberst|2877|2896|PER| Innenminisker, übernommen. Dieses in Eriegszeitenünberst wiehtige Amt konnte ihm zweikellos
+LordKillearn|3357|3369|LOC| Als im Oktober 1944 LordKillearn und die britische Regierung sehlieslicheinschen
+AuBenminister|3934|3947|PER| das Innenministerium, undNokraschi wurde AuBenminister. So untte er denzweiten
+MaherPnscha|4461|4472|PER| mit seinem leben biisen. MaherPnscha wurde am 24. Februar 1945
+Nokraschi|4821|4830|ORG but correct : PER| inAesppten der Nationalismus, dem Nokraschi entgegenzutreten verzuchte. Als Realpolitiker, derdie
+Achtsehn|5381|5389|ORG| aber dem Druck der „Achtsehn"fügen, eines Beratungsausschusses, den der
+Seinebrutale|5853|5865|PER| indas Regierungsviertel eindringen wollten. Seinebrutale Handlungsweise verriet nicht Enerzie, sonderen
+Ministerprüsidenten|6545|6564|PER| dus für den früheren Ministerprüsidenten Ahmed Maher Pascha erlmut wird,
+MördersKairo|7116|7128|PER but correct : LOC| Fanntikern ermordet wurden.Aussagen des MördersKairo, 29. Der. ag (AFF)
+MohammedanischenPrüdler|7293|7316|MISC but correct : ORG| Ministerprüsidenten dar. (Verbot der „MohammedanischenPrüdler", Politik im Sudan und
+MohammednnisehenPrüder|7478|7500|MISC but correct : ORG| Jahren der Organisation der „MohammednnisehenPrüder" an. Seine Studien an
+Pasehn|7786|7792|PER| einen StolzDrokbriefe, die Nokeraschi Pasehn erhalten hatteund über die er
+Dom|288|291|LOC| Sodann: Einzug in den Dom. Rede des Dombaumeisters und
+Dombaumeisters|302|316|PER| den Dom. Rede des Dombaumeisters und Uebergabc der neugebauten Theile
+Uebergabc|321|330|PER| Rede des Dombaumeisters und Uebergabc der neugebauten Theile des Domes
+Herrn|371|376|PER| des Domes an den Herrn Erzbischof. Enthüllung der von Sr.
+Üeibl|586|591|LOC| Chor. Fest- Cantatc von Üeibl. Erthcilung des Segens durch
+Herrn|625|630|PER| des Segens durch den Herrn Erzbischof. 4) Abends gegen 6
+Kölns|774|779|PER| Großer Fackelzug der Bürgerschaft Kölns, unter Milwirkung dreier Musikchöre
+Kölns|1056|1061|PER| parate der gefammten Bürgerwehr Kölns auf dem Neumarkte. 2) Morgens
+Kanonendonner|2103|2116|PER| Zug bewegt sich unter Kanonendonner und Glockengeläute um den Neumarkt
+Glockengeläute|2121|2135|PER| sich unter Kanonendonner und Glockengeläute um den Neumarkt herum durch
+Herr|2304|2308|PER| Palais. Nachdem hier der Herr Erzbischof mit der bei Ihm
+Dompropstei|3265|3276|ORG| Gäste je. in der Dompropstei eingefunden, von wo dieselben die
+Kaiser|288|294|PER| Ferdinand I. hat aufgehört, Kaiser »on D e st exxe
+Windischgräh|1575|1587|LOC| fein. Er konnte gleich Windischgräh von sich sagen: „Ich befinde
+Lieber|3028|3034|PER| Banus »on Broatien erlassen: „Lieber Freiherr von lellachich ! Die
+Grenzvolke|3111|3121|PER| her in dem tapfctn Grenzvolke einen treuen Hort gegen den
+StaatsAnzeiger|3484|3498|PER| Verfassung. Der heutige „Preuß. StaatsAnzeiger" bringt nämlich 1) die
+Staats|3632|3638|PER| dieselbe anrathenden Vorstellung des Staats » Ministeriums ; 2) die
+jungen|4332|4338|PER| ist eine Proclamation des jungen Kaisers verlesen worden, welche sich
+Gottes|4609|4615|PER| Wir Friedrich Wilhelm, von Gottes Gnaden, König von Preußen %t.
+Preußen|4634|4641|LOC| Gottes Gnaden, König von Preußen %t. :c. haben aus dem
+Brandenburg|5512|5523|LOC| Das Staats-Ministerium. Graf von Brandenburg, von Ladenberg, von ©trotta,
+Ladenberg|5529|5538|LOC| Graf von Brandenburg, von Ladenberg, von ©trotta, von Manteuffel.
+Manteuffel|5557|5567|LOC| Ladenberg, von ©trotta, von Manteuffel. Rintclen. von der Hcydt.
+Ferdinand|5954|5963|LOC but correct : PER| Organisation beginnt. Der Name Ferdinand war zuletzt das Symbol ter
+Organi|6331|6337|PER| an nichts, als an Organi, fation, und ihr werbet
+Köln|6384|6388|LOC but correct : MISC| werbet uns willkommen fein! (Köln. Ztg.) Ich Ihnen die
+Banns|6420|6425|PER| Ihnen die Würde des Banns von (Kroatien verlieh, erwartete Ich
+Ferdinand|6905|6914|LOC but correct : PER| Dlmü&, 24. November 1848. Ferdinand. — Die Wiener Post
+Jubel|353|358|PER| finden, Sie begrüßten mit Jubel den .System» Wechsel" (wie sie
+Leiber|2576|2582|PER| man keinen sieht. Radicale Leiber können sterben, aber der radicale
+seit|2648|2652|MISC but correct : LOC| nicht; er ist nur seit 1849 vorsichtiger geworden und nimmt
+liberalen|3279|3288|ORG| in radicale Knechtschaft; die liberalen Nachbarn jubelten; es zeigten sich
+Baden|3385|3390|LOC| der Revolution ; in Baden tagte ein Vorparlament, man hielt
+Moskau|140|146|LOC| der japanischen Botschaft in Moskau Mijakawa in der fernöstlichen Abteilung
+Moskauer|191|199|PER| der fernöstlichen Abteilung des Moskauer Außeukom» miffariats vor, um den
+Rayon|393|398|LOC| vom 7. 8/ im Rayon Grodekowo (ungefähr 200 Kilometer nördlich
+Grodekowo|399|408|LOC| 7. 8/ im Rayon Grodekowo (ungefähr 200 Kilometer nördlich des
+Masd|589|593|LOC| die japanische Grenzmache mit Masd)inengewehrfeuer angeschossen, sei aber dann
+japanischen|817|828|PER| letzten Gesprach mit dem japanischen Botschafter am 7. 8, berührt,
+Paris|92|97|LOC| eines ständigen internationalen Kommandos Paris, 29. Sept. (AP). Die
+Großbritanniens|141|156|PER but correct : LOC| Sept. (AP). Die Verteidigungsminister Großbritanniens, Frankreichs und der Beneluxstaaten
+Minister|739|747|PER| waren, verpflichteten sich die Minister Großbritanniens, Frankreichs, Hollands, Belgiens und
