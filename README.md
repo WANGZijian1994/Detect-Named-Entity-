@@ -25,4 +25,4 @@ spaCy sm vs spaCy md
 
 spaCy Create vs StandfordCoreNLP
 
-![image](https://github.com/WANGZijian1994/Detect-Named-Entity-/tree/master/Visualisation/Stanford_spaCy.png)
+![image](https://github.com/WANGZijian1994/Detect-Named-Entity-/tree/master/Visualisation/Stanford_SpaCy.png)
