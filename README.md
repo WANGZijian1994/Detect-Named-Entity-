@@ -7,9 +7,6 @@ First I have used [Spacy German Model](https://spacy.io/models/de). But the resu
 After using spacy retrain API, I have updated the German Language Model(https://github.com/WANGZijian1994/Detect-Named-Entity-/tree/master/spacyNER/RetrainModels) and test this model with dev data. 
 
 `The result`
- 	precison 	recall 	f1
-Model only with my train_data 	64.814815 	53.030303 	58.333333
-Model with data TigerCorpus and my train data 	70.909091 	59.090909 	64.462810
 
 | Items | spaCy Create | spaCy sm | spaCy md | StanfordCoreNLP Create |
 | --- | --- | --- | --- | --- |
