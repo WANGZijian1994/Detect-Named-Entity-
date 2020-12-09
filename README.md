@@ -21,18 +21,18 @@ I have followed the same steps when I worked with StanfordCoreNLP
 
 spaCy sm vs spaCy md
 
-![image](https://github.com/WANGZijian1994/Detect-Named-Entity-/tree/master/Visualisation/Spacy_sm_Spacy_md.png)
+![image](https://github.com/WANGZijian1994/Detect-Named-Entity-/blob/master/Visualisation/Spacy_sm_Spacy_md.png)
 
 spaCy Create vs StandfordCoreNLP
 
-![image](https://github.com/WANGZijian1994/Detect-Named-Entity-/tree/master/Visualisation/Stanford_SpaCy.png)
+![image](https://github.com/WANGZijian1994/Detect-Named-Entity-/blob/master/Visualisation/Stanford_SpaCy.png)
 
 ### Comparaison des résultats de plus de 2 systèmes
 
 spaCy sm | spaCy md | spaCy Create VP ORG
 
-![image](https://github.com/WANGZijian1994/Detect-Named-Entity-/tree/master/Visualisation/ORG.png)
+![image](https://github.com/WANGZijian1994/Detect-Named-Entity-/blob/master/Visualisation/ORG.png)
 
 spaCy sm | spaCy md | StanfordCoreNLP VP PER
 
-![image](https://github.com/WANGZijian1994/Detect-Named-Entity-/tree/master/Visualisation/Quadrôme.png)
+![image](https://github.com/WANGZijian1994/Detect-Named-Entity-/blob/master/Visualisation/Quadr%C3%B4me.png)
