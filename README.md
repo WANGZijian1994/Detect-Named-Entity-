@@ -6,6 +6,8 @@ First I have used [Spacy German Model](https://spacy.io/models/de). But the resu
 
 After using spacy retrain API, I have updated the German Language Model(https://github.com/WANGZijian1994/Detect-Named-Entity-/tree/master/spacyNER/RetrainModels) and test this model with dev data. 
 
+I have followed the same steps when I worked with StanfordCoreNLP
+
 `The result`
 
 | Items | spaCy Create | spaCy sm | spaCy md | StanfordCoreNLP Create |
