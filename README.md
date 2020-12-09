@@ -17,7 +17,7 @@ I have followed the same steps when I worked with StanfordCoreNLP
 | F-Call | 58.89 | 63.87 | 71.07% | 57.83 |
 
 
-Comparaison des résultats L'intersection, la complémentaire de différents modèles et outils. 
+### Comparaison des résultats L'intersection, la complémentaire de différents modèles et outils. 
 
 spaCy sm vs spaCy md
 
@@ -26,3 +26,13 @@ spaCy sm vs spaCy md
 spaCy Create vs StandfordCoreNLP
 
 ![image](https://github.com/WANGZijian1994/Detect-Named-Entity-/tree/master/Visualisation/Stanford_SpaCy.png)
+
+### Comparaison des résultats de plus de 2 systèmes
+
+spaCy sm | spaCy md | spaCy Create VP ORG
+
+![image](https://github.com/WANGZijian1994/Detect-Named-Entity-/tree/master/Visualisation/ORG.png)
+
+spaCy sm | spaCy md | StanfordCoreNLP VP PER
+
+![image](https://github.com/WANGZijian1994/Detect-Named-Entity-/tree/master/Visualisation/Quadrôme.png)
