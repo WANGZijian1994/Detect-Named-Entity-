@@ -11,10 +11,10 @@ After using spacy retrain API, I have updated the German Language Model(https://
 Model only with my train_data 	64.814815 	53.030303 	58.333333
 Model with data TigerCorpus and my train data 	70.909091 	59.090909 	64.462810
 
-| Items | Training Data Model | Training Data + Spacy Model (de_core_web_sm) |
-| --- | --- | --- |
-| Precision | 64.8% | 70.90%
-| Recall | 53% | 59.10%
-| F-Call | 58.3% | 64.42%
+| Items | spaCy Create | spaCy sm | spaCy md | StanfordCoreNLP Create |
+| --- | --- | --- | --- |
+| Precision | 64.07% | 71.70% | 78.18% | 62.08% |
+| Recall | 53.8% | 57.58% | 65.15% | 54.01% |
+| F-Call | 58.89 | 63.87 | 71.07% | 57.83 |
 
 
