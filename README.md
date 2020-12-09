@@ -21,8 +21,8 @@ Comparaison des résultats L'intersection, la complémentaire de différents mod
 
 spaCy sm vs spaCy md
 
-![image](https://github.com/WANGZijian1994/Detect-Named-Entity-/tree/master/Visualisation/Spacy sm Spacy md.png)
+![image](https://github.com/WANGZijian1994/Detect-Named-Entity-/tree/master/Visualisation/Spacy_sm_Spacy_md.png)
 
 spaCy Create vs StandfordCoreNLP
 
-![image](https://github.com/WANGZijian1994/Detect-Named-Entity-/tree/master/Visualisation/Stanford spaCy.png)
+![image](https://github.com/WANGZijian1994/Detect-Named-Entity-/tree/master/Visualisation/Stanford_spaCy.png)
